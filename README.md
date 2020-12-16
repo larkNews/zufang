@@ -1,5 +1,5 @@
 # 公告
-1. 因为一些原因，不再收集租房黑名单。
+1. 因为国内账号实名制，不方便统计。
 2. 有需要请在 Issues页面留言：https://github.com/bobo-xiaoming/zufang/issues
 
 # 租房黑名单
