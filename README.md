@@ -1,6 +1,6 @@
 # 公告
 1. 国内账号实名制，不方便使用；github账号自己注册，虽然麻烦但是安全。
-2. 有需要请在 Issues页面留言：https://github.com/bobo-xiaoming/zufang/issues
+2. 有需要请在 Issues页面留言：https://github.com/bobo-xiaoming/zufang/issues/1
 3. 留言每周整理一遍。
 
 # 租房黑名单
