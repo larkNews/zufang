@@ -4,9 +4,8 @@
 
 # 公告
 
-1. 国内账号实名制，不方便使用；github账号自己注册，虽然麻烦但是安全。
-2. 有需要请在 Issues页面留言：https://github.com/bobo-xiaoming/zufang/issues/1
-3. 留言每周整理一遍。名单仅排雷使用，无其他功能和目的。
+1. 名单添加地址：https://docs.qq.com/form/page/DZkdvcEx3Yk50bFJU?_w_tencentdocx_form=1
+3. 留言每周整理一遍。名单仅排雷使用，无其他功能和目的。如有侵犯隐私请留言。
 
 # 租房黑名单
 
