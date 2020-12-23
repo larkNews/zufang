@@ -4,7 +4,7 @@
 
 # 公告
 
-1. 名单添加地址：https://docs.qq.com/form/page/DZkdvcEx3Yk50bFJU?_w_tencentdocx_form=1
+1. 名单添加方式：https://docs.qq.com/form/page/DZkdvcEx3Yk50bFJU?_w_tencentdocx_form=1
 2. 如上连接如果关闭，可在https://github.com/bobo-xiaoming/zufang/issues/1 留言。
 3. 留言每周整理一遍。名单仅排雷使用，无其他功能和目的。如有侵犯隐私请留言。
 
