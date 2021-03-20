@@ -1,7 +1,7 @@
 ## 公告
 
-1. <h1>添加名单点这里：</h1> [名单添加 ](https://docs.qq.com/form/page/DZkdvcEx3Yk50bFJU) 
-2. 如上连接如果关闭，可在https://github.com/bobo-xiaoming/zufang/issues/1 留言。
+1.   <font size="22"><a href="https://docs.qq.com/form/page/DZkdvcEx3Yk50bFJU">名单添加点这里</a></font>
+2. 如上连接如果关闭，可在https://github.com/bobo-xiaoming/zufang/issues/1 留言。 
 3. 本页面内容有：  [租房注意事项](#租房注意事项)、[房源黑名单](#房源黑名单)、[看房狗平台黑名单](#看房狗平台黑名单)  。
 4. 名单在本页面更新，每周整理一遍。名单仅排雷使用，无其他功能和目的。
 5. 如有侵犯隐私请留言。
